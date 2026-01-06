@@ -1,0 +1,4 @@
+.env
+notebook_data/*
+# !notebook_data/uploads/
+# !notebook_data/uploads/**
